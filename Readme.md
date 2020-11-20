@@ -1,6 +1,6 @@
 # UIB_Framework_Bootstrap_Exercise-1
 
-Single webpage with Bootstrap
+Single webpage with Bootstrap.
 
 ## Instructions
 
